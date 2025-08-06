@@ -1,4 +1,4 @@
-# 🔊 Discord 24/7 VC Joiner — Multi Token (No Proxy)
+# 🔊 Discord 24/7 VC Joiner — Multi Tokens Supported
 
 **Made by [`$ync`](https://discord.com/channels/@me/1289193268340326455)**  
 Join voice channels on Discord 24/7 using multiple tokens.  
