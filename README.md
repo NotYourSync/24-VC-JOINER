@@ -12,9 +12,9 @@ Lightning-fast and coded for clean performance.
 - ✅ 24/7 persistent connection
 - ✅ Can Be Used For Token Onliner Too
 - 🖥️ Terminal Logs 
-- 👤 Configurable mute & deaf options
-- 🎨 Includes banner and credits display
-- 🔐 Tokens remain local (no data sent)
+- 👤 Configurable 
+- 🌐 Uses Websocket
+- 🔐 Easy input
 
 ---
 
