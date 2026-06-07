@@ -1,8 +1,8 @@
 # 🔊 Discord 24/7 VC Joiner — Multi Tokens Supported
 
-**Made by [`$ync`](https://discord.com/channels/@me/1289193268340326455)**  
+**Made by [`$ync`] (https://discord.com/channels/@me/1289193268340326455) with 🤍 and 🧠**  
 Join voice channels on Discord 24/7 using multiple tokens.  
-Lightning-fast and coded for clean performance.
+Fast and Smooth Optimization in The code to prevent your tokens to get limited or flagged.
 
 ---
 
@@ -26,3 +26,11 @@ Lightning-fast and coded for clean performance.
 > 💡 Run this to install all dependencies:
 ```bash
 pip install aiohttp websockets colorama
+
+```
+---
+<img width="848" height="1830" alt="1000306153" src="https://github.com/user-attachments/assets/77800476-482c-445d-a840-d5a5073c95cc" />
+
+# ⚠️  WARNING
+
+- This Code is Inly For education and testing purpose. Owner / Creator is not responsible for any kind of misuse of this Tool / violating Discord TOS.
